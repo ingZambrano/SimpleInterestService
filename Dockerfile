@@ -1,4 +1,3 @@
-
 FROM adoptopenjdk:11-jre-hotspot
 MAINTAINER manuelzambrano.com
 ARG WAR_FILE=target/*.war
